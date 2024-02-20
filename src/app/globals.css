@@ -1,4 +1,4 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -30,4 +30,12 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+} */
+
+.edit-meme{
+  width: 30%;
+  border: 2px solid black;
+}
+.edit-meme img{
+  width: 100%;
 }
